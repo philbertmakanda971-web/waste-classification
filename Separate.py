@@ -9,7 +9,7 @@ from PIL import Image
 # SETTINGS
 # ============================================================
 
-MODEL_PATH ="waste_classifier.keras"
+MODEL_PATH = "waste_classifier.keras"
 
 CLASS_NAMES_PATH = "class_names.txt"
 
