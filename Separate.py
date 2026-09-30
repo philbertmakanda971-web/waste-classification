@@ -9,8 +9,9 @@ from PIL import Image
 # SETTINGS
 # ============================================================
 
-MODEL_PATH = r"C:\Users\Home\Desktop\WASTE\waste_classifier_final.keras"
-CLASS_NAMES_PATH = r"C:\Users\Home\Desktop\WASTE\class_names.txt"
+MODEL_PATH = "waste_classifier_final.keras"
+
+CLASS_NAMES_PATH = "class_names.txt"
 
 IMAGE_SIZE = (224, 224)
 
